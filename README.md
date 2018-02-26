@@ -1,8 +1,14 @@
-### 我的博客
+### Junne's Blog
+
+
+
+![Head](https://github.com/Junne/Junne-Blog/blob/master/Resources/Images/WechatIMG1.jpeg) 
+
+
 
 业精于勤荒于嬉,任何技艺都需要不断的学习才能成为高手,计算机学习亦如此。
 
-🌺这个博客的目的在于记录点击的成长和进步.
+🌺这个博客的目的在于记录点滴的成长和进步.
 
 
 
