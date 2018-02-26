@@ -2,7 +2,7 @@
 
 
 
-![Head](https://github.com/Junne/Junne-Blog/blob/master/Resources/Images/WechatIMG1.jpeg) 
+![Head](https://github.com/Junne/Junne-Blog/blob/master/Resources/Images/onepiecehead.jpg) 
 
 
 
